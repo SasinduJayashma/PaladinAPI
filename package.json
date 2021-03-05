@@ -1,0 +1,27 @@
+{
+  "name": "PaladinAPI",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SasinduJayashma/PaladinAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SasinduJayashma/PaladinAPI/issues"
+  },
+  "homepage": "https://github.com/SasinduJayashma/PaladinAPI#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "js-cache": "^1.0.3",
+    "node-fetch": "^2.6.1",
+    "querystring": "^0.2.1"
+  }
+}
